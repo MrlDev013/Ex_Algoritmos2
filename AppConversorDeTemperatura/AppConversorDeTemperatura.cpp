@@ -3,6 +3,7 @@
 #include <locale.h>
 #include <Windows.h>
 
+//C code
 
 void controle();
 void celsiusControle();
